@@ -1,0 +1,16 @@
+{
+  "description": "My personal blog and website",
+
+  "domain": "is-cool.dev",
+  "subdomain": "xcx0902",
+
+  "owner": {
+    "email": "chenxuan0902@gmail.com"
+  },
+
+  "record": {
+    "NS": ["val.ns.cloudflare.com", "wesley.ns.cloudflare.com"]
+  },
+
+  "proxied": false
+}
